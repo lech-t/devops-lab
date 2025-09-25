@@ -1,1 +1,2 @@
 Documentation.
+Version 2
